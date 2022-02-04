@@ -1,0 +1,17 @@
+@charset "utf-8";
+.wrap {
+	background-color: pink;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navi {
+	background-color: yellowgreen;
+	width: 100px;
+}
+
+.main {
+	background-color: gray;
+	width: 400px;
+}
