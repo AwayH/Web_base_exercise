@@ -8,7 +8,7 @@ body {
 	background-color: #eee;
 }
 
-.img__inner {
+.img-inner {
 	display: flex;
 	justify-content: center;
 }

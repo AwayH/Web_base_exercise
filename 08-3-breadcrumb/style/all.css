@@ -180,22 +180,3 @@ a .widget-img:hover {
 .main-single .post-desc {
 	margin-top: 20px;
 }
-
-.breadcrumb {
-	margin-top: 20px;
-}
-
-.breadcrumb,
-.breadcrumb a {
-	color: #aaa;
-}
-
-.breadcrumb a:hover {
-	color: #2ea3f2;
-}
-
-.breadcrumb__item+.breadcrumb__item::before {
-	content: "»";
-	display: inline-block;
-	margin-right: 3px;
-}

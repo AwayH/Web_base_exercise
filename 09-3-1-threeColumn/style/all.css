@@ -6,11 +6,6 @@
 	box-sizing: border-box;
 }
 
-.fix-float {
-	display: block;
-	clear: both;
-}
-
 .wrapper {
 	width: 1030px;
 	margin-left: auto;
@@ -20,12 +15,6 @@
 
 .header {
 	background-color: aquamarine;
-}
-
-.navi,
-.main,
-.sidebar {
-	float: left;
 }
 
 .navi {
