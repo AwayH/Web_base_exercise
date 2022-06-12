@@ -11,14 +11,14 @@ body {
 	margin: 10px auto;
 }
 
-.post__head {
+.post-head {
 	background-color: yellowgreen;
 }
 
-.post__body {
+.post-body {
 	background-color: aquamarine;
 }
 
-.post__foot {
+.post-foot {
 	background-color: pink;
 }
