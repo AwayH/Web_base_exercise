@@ -10,12 +10,6 @@
 	margin-right: auto;
 }
 
-.fix-float::after {
-	content: '';
-	display: block;
-	clear: both;
-}
-
 .row {
 	margin-left: -15px;
 	margin-right: -15px;
@@ -43,14 +37,14 @@ ul {
 
 /* Module ----------------------------- */
 
-.pic-item {
-	float: left;
-	width: 25%;
-	padding: 15px;
+.pic-ls {
+	display: flex;
+	flex-wrap: wrap;
 }
 
-.pic-item:first-child {
-	width: 50%;
+.pic-item {
+	width: 25%;
+	padding: 15px;
 }
 
 .pic-mask {
