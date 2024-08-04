@@ -24,7 +24,7 @@ body {
 	margin-bottom: 15px;
 }
 
-.navi {
+.nav {
 	width: 25%;
 }
 
@@ -53,11 +53,11 @@ body {
 	line-height: 1.5;
 }
 
-.navi-list li {
+.nav-list li {
 	margin-bottom: 15px;
 }
 
-.navi-list a {
+.nav-list a {
 	display: block;
 	border: solid 1px #000;
 	padding: 10px;
@@ -65,6 +65,6 @@ body {
 	color: #000;
 }
 
-.navi-list a:hover {
+.nav-list a:hover {
 	background-color: #eee;
 }
