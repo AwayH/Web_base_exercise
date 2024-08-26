@@ -12,7 +12,7 @@ img{ border:0;}
 .hdr, .main, .box{ margin-bottom: 1em;}
 .hdr{ height: 55px;}
 .site-name{ position: absolute; top:-10px;}
-.site-name a{ display: block; background: url('../images/logo.png'); width: 65px; height: 79px; text-indent: -9999px;}
+.site-name a{ display: block; background-image: url("../images/logo.png"); width: 65px; height: 79px; text-indent: -9999px;}
 .site-name a:hover { background-position: 0 -76px;}
 .site-desc{ font-size: 13px; font-weight: 100; color:#999; top:-3px; left:75px; width: 235px; line-height: 1.3;}
 

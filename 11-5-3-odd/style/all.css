@@ -19,45 +19,52 @@ ul, ol {
 
 body {
 	font: 15px Arial, Helvetica, '微軟正黑體', sans-serif;
-	background: url("../images/body_bg.jpg") repeat-x left top;
+	background-image: url("../images/body_bg.jpg") repeat-x left top;
 }
 
-.tit {
+.title {
 	margin: 1em 0;
 	color: #000;
 	font-size: 3em;
 	text-shadow: 1px 1px #fff;
 }
 
-.box-list {
+.container {
 	max-width: 1200px;
-	margin: auto;
-	overflow: hidden;
 }
 
-.box-list li {
-	float: left;
-	width: 30.5%;
-	height: 225px;
-	margin: 1em;
+.mx-auto {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.grid {
+	display: grid;
+	gap: 1rem;
+}
+
+.grid-3 {
+	grid-template-columns: repeat(3, 1fr);
+}
+
+.prod {
 	padding: 1em;
 	text-align: center;
 	border-radius: 10px;
 	border: solid 1px #999;
 }
 
-.box-list h2 {
+.prod-title {
 	font-size: 1.5em;
 	margin-bottom: .5em;
 }
 
-.box-list p {
+.prod-desc {
 	color: #666;
 	line-height: 1.5;
-	font-size: .9em;
 }
 
-.box-list .img-inner {
+.prod-imgs {
 	margin-top: 1em;
 	height: 95px;
 	overflow: hidden;

@@ -1,6 +1,6 @@
 .banner {
   padding: 180px 0 120px;
-  background: url(../images/sectionBG.jpg) no-repeat 0 35px;
+  background-image: url("../images/sectionBG.jpg") no-repeat 0 35px;
 }
 
 .banner h1 {

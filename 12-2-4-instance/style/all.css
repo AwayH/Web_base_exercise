@@ -25,7 +25,7 @@ body {
 }
 
 .header,
-.navi,
+.nav,
 .content,
 .footer {
 	padding: 15px;
@@ -36,7 +36,7 @@ body {
 	background-color: #eee;
 }
 
-.navi {
+.nav {
 	background-color: #ddd;
 }
 
