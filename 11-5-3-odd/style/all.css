@@ -19,7 +19,7 @@ ul, ol {
 
 body {
 	font: 15px Arial, Helvetica, '微軟正黑體', sans-serif;
-	background-image: url("../images/body_bg.jpg") repeat-x left top;
+	background: url("../images/body_bg.jpg") repeat-x left top;
 }
 
 .title {
@@ -68,4 +68,9 @@ body {
 	margin-top: 1em;
 	height: 95px;
 	overflow: hidden;
+}
+
+.prod-img {
+	max-width: 100%;
+	height: auto;
 }

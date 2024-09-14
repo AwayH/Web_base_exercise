@@ -160,9 +160,6 @@ img {
 	grid-template-columns: 1fr 4fr;
 }
 
-.recommend-li + li {
-}
-
 .recommend-link {
 	line-height: 1.3;
 	color: #09c;

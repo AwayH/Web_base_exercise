@@ -1,14 +1,14 @@
 *{ padding:0; margin:0; box-sizing: border-box;}
 html *{ position: relative;}
 ul, ol{ list-style-type: none;}
-body{ background: #eee; font:15px/1 Arial,'微軟正黑體','細明體'; letter-spacing: 1px;}
+body{ background-color: #eee; font:15px/1 Arial,'微軟正黑體','細明體'; letter-spacing: 1px;}
 a{ text-decoration: none;}
 a:hover{ text-decoration: underline;}
 img{ border:0;}
 
-.card{ background: #fff; border: 1px solid; border-color: #e5e6e9 #dfe0e4 #d0d1d5; border-radius: 3px;}
+.card{ background-color: #fff; border: 1px solid; border-color: #e5e6e9 #dfe0e4 #d0d1d5; border-radius: 3px;}
 .wrap{ width:960px; margin:1em auto;}
-.hdr, .ftr{ background: #f6f6f6; padding: 1em;}
+.hdr, .ftr{ background-color: #f6f6f6; padding: 1em;}
 .hdr, .main, .box{ margin-bottom: 1em;}
 .hdr{ height: 55px;}
 .site-name{ position: absolute; top:-10px;}
