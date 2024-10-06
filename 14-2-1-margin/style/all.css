@@ -5,6 +5,10 @@ body {
 	font-family: '微軟正黑體', Arial, Helvetica, sans-serif;
 }
 
+.text-center {
+	text-align: center;
+}
+
 .post {
 	background-color: #fff;
 	width: 700px;
