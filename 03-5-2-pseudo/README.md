@@ -1,1 +1,1 @@
-> [CSS Selector - 偽類選取器](https://docs.f2e.idv.tw/css/selector-pseudo.html)
+> [CSS Selector: 偽類選取器](https://docs.f2e.idv.tw/css/selector-pseudo.html)

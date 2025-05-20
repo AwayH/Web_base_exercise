@@ -1,1 +1,1 @@
-> [CSS Selector - ID 選取器](https://docs.f2e.idv.tw/css/selector-id.html)
+> [CSS Selector: ID 選取器](https://docs.f2e.idv.tw/css/selector-id.html)
