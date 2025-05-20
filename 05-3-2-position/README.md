@@ -1,0 +1,2 @@
+> [CSS Property: background-position-x](https://docs.f2e.idv.tw/css/properties-visual.html#background-position-x)
+> [CSS Property: background-position-y](https://docs.f2e.idv.tw/css/properties-visual.html#background-position-y)
