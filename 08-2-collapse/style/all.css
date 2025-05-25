@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+body {
+  background-color: #ddd;
+}
+
+.container {
+  width: 600px;
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.collapse {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.collapse-head,
+.collapse-body {
+  padding: .7rem 1rem;
+  border-radius: 0.25rem;
+}
+
+.collapse-head {
+  color: #fff;
+  background-color: #fff;
+}
+
+.collapse-body {
+  margin-top: 1rem;
+  background-color: #fff;
+}
+
+.collapse-head-primary {
+  background-color: #0e4d90;
+}
+
+.collapse-head-success {
+  background-color: #53b22b;
+}
+
+.collapse-head-warning {
+  background-color: #f90;
+}
+
+.collapse-description {
+  line-height: 1.5;
+}
