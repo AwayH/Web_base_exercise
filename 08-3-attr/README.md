@@ -1,0 +1,1 @@
+> [CSS Selector: 無中生有/attr](https://docs.f2e.idv.tw/css/selector-pseudo-element-before-after.html#attr)
