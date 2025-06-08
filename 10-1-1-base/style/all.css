@@ -1,24 +1,30 @@
 @charset "utf-8";
 
-.box-out,
-.box-in {
-	padding: 10px;
+.box-grand-parent,
+.box-parent,
+.box-child {
+	padding: 30px;
 }
 
-.box-out {
-	margin: 20px auto;
-	width: 800px;
+.box-grand-parent {
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;	
+	background-color: lightblue;
+}
+
+.box-parent {
 	background-color: pink;
 }
 
-.box-in-1 {
+.box-child-1 {
 	width: 200px;
 	height: 300px;
 	background-color: yellowgreen;
 }
 
-.box-in-2 {
+.box-child-2 {
 	width: 300px;
 	height: 100px;
-	background-color: brown;
+	background-color: lightgreen;
 }
