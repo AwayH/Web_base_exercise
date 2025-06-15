@@ -9,21 +9,21 @@
 </head>
 
 <body>
-
-	<ul class="dom-ls" id="List"></ul>
-
+	<div class="dom">
+		<ul class="dom-ul" id="List"></ul>
+	</div>
+	
 	<script>
 
-		function setInit(str = '') {
-			const elem = document.querySelector('#List');
+		const makeItems = (str = '') => {
 			for (let i = 1, len = 100; i <= len; i++) {
-				str += '<li class="dom-item">' + i + '</li>';
+				str += '<li class="dom-li">' + i + '</li>';
 			}
-			elem.innerHTML = str;
-		}
+			
+			return str;
+		};
 
-		setInit();
-
+		document.querySelector('#List').innerHTML = makeItems();
 	</script>
 </body>
 
