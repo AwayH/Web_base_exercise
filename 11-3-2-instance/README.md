@@ -1,0 +1,1 @@
+> [CSS Property: gradient](https://docs.f2e.idv.tw/css/properties-visual.html#background-image)
