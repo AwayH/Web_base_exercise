@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+/* reset --------------------- */
+
+img {
+  vertical-align: bottom;
+}
+
+/* helper ---------------------- */
+
+.h-container {
+  max-width: 1200px;
+}
+
+.h-mx-auto {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* layout ---------------------- */
+
+.base {
+  display: flex;
+  gap: 1rem;
+}
+
+.base-head {
+  width: 66.6666%;
+}
+
+.base-body {
+  width: 33.3333%;
+  background-color: lightblue;
+}
+
+.aside {
+  padding: 1rem;
+}
+
+/* modules -------------------- */
+
+.banner, .banner-img {
+  aspect-ratio: 16/9;
+}
+
+.banner {
+  position: relative;
+}
+
+.banner-img {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
