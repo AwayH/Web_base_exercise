@@ -1,0 +1,1 @@
+> [CSS Performance - 縮寫表示法](https://docs.f2e.idv.tw/css/performance-abbreviation.html)
