@@ -1,0 +1,1 @@
+> [CSS Margin Collapse: 重疊情況](https://docs.f2e.idv.tw/css/margin-collapse.html#%E9%87%8D%E7%96%8A%E6%83%85%E6%B3%81)
