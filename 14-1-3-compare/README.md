@@ -1,0 +1,1 @@
+> [CSS 優先權: 優先權計算方式](https://docs.f2e.idv.tw/css/specificity.html#%E5%84%AA%E5%85%88%E6%AC%8A%E8%A8%88%E7%AE%97%E6%96%B9%E5%BC%8F)

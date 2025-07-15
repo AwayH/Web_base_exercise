@@ -1,0 +1,1 @@
+> [CSS 優先權: 選取器類型](https://docs.f2e.idv.tw/css/specificity.html#%E9%81%B8%E5%8F%96%E5%99%A8%E9%A1%9E%E5%9E%8B)
