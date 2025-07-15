@@ -1,0 +1,1 @@
+> [CSS 優先權: 樣式的撰寫位置](https://docs.f2e.idv.tw/css/specificity.html#%E6%A8%A3%E5%BC%8F%E6%92%B0%E5%AF%AB%E7%9A%84%E4%BD%8D%E7%BD%AE)
